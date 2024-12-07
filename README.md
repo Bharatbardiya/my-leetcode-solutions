@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 ## Union Find
 |  |
 | ------- |
@@ -35,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
