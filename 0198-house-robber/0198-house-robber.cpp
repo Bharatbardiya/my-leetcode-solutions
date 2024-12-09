@@ -9,7 +9,14 @@ public:
 
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>dp(n+1,-1);
-        return fun(nums, nums.size()-1, dp);
+        vector<int>dp(n+1);
+        dp[0] = nums[0];
+        
+        for(int i = 1; i<n; i++){
+            int temp = 0;
+            if(i>1) temp = dp[i-2];
+            dp[i] = max(dp[i-1], temp+nums[i]);
+        }
+        return dp[n-1];
     }
 };
