@@ -14,20 +14,19 @@ public:
 int maximumBeauty(vector<int>& nums, int k) {
     sort(nums.begin(), nums.end());
     int n = nums.size();
-    int r = nums.back(), l = nums[0];
-    int i = l, ans = 0;
-    while(i<=r){
-        int t1 = elementsInRange(nums, i-k, i+k);
-        // if(i<n-1){
-        // int mid1 = (val1+nums[i+1])/2;
-        // int mid2 = mid1+1;
-        // if(mid1!=nums[i]) t1 = max(t1, elementsInRange(nums, mid1-k, mid1+k));
-        // if(mid2!=nums[i+1]) t1 = max(t1, elementsInRange(nums, mid2-k, mid2+k));
-        // }
-        i++;
-        ans = max(ans, t1);
-    }
-      return ans;        
+    int right_ptr = 0, left_ptr = 0, ans=0;
+    while(right_ptr<n){
+        if(nums[right_ptr] - nums[left_ptr]<=2*k){
+            ans = max(ans, right_ptr-left_ptr+1);
+            right_ptr++;
+        }
+        else{
+            left_ptr++;
+        }
+    } 
+    ans = max(ans, n-left_ptr);
+    return ans;        
  }
+
 
 };
