@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0127-word-ladder) |
+| [0560-subarray-sum-equals-k](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3427-special-array-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
