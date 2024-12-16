@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 ## Breadth-First Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2868-continuous-subarrays](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -207,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
