@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0127-word-ladder) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0474-ones-and-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
