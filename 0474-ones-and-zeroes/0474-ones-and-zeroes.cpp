@@ -21,9 +21,9 @@ public:
                 vpr[i][c-'0']++;
             }
         }
-        vector<vector<vector<int>>>dp(m+1, vector<vector<int>>(n+1, vector<int>(size+1, -1)));
-        int val = fun(vpr, size-1, m, n, dp);
-        return val>0?val:0;
+        vector<vector<vector<int>>>dp(m+1, vector<vector<int>>(n+1, vector<int>(size+1, 0)));
+        // int val = fun(vpr, size-1, m, n, dp);
+        // return val>0?val:0;
 
         // for(int i = 0; i<=size; i++){
         //     dp[0][0][i] = 1;
@@ -34,8 +34,8 @@ public:
         //     }
         // }
         for(int i = 1; i<=size; i++){
-            for(int j = 1; j<=m; j++){
-                for(int k = 1; k<=n; k++){
+            for(int j = 0; j<=m; j++){
+                for(int k = 0; k<=n; k++){
                     
                     int val2 = -100000;
                     int val1 = dp[j][k][i-1];
