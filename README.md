@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -234,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
