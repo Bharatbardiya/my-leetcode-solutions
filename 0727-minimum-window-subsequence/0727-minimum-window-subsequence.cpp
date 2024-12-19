@@ -22,10 +22,12 @@ public:
         vector<vector<int>>dp(n+1, vector<int>(m+1, -1));
 
         for(int i = 0; i<n; i++){
-            int t = fun(s1, s2, i, 0, dp);
-            if(t<len){
-                ind = i;
-                len = t;
+            if(s1[i]==s2[0]){
+                int t = fun(s1, s2, i, 0, dp);
+                if(t<len){
+                    ind = i;
+                    len = t;
+                }
             }
         }
         
