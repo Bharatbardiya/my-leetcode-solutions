@@ -5,7 +5,7 @@ public:
         for(int i = 0; i<arr.size(); i++){
             sum+=arr[i];
             sum-=i;
-            if(!sum) ans++;
+            ans += (sum==0);
         }
         return ans;
     }
