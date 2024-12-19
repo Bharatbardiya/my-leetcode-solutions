@@ -1,16 +1,17 @@
 class Solution {
 public:
     int fun(string &s1, string &s2, int i, int j, vector<vector<int>>&dp){
-        if(i==s1.length()){
-            if(j==s2.length()) return 0;
+        if(i<0){
+            if(j<0) return 0;
             return INT_MAX;
         }
-        if(j==s2.length()) return 0;
-
+        if(j<0) return 0;
+        // cout<<i<<","<<j<<endl;
         if(dp[i][j]!=-1) return dp[i][j];
-
-        if(s1[i]==s2[j]) j++;
-        int val = fun(s1, s2, i+1, j,dp);
+        int jj = j;
+        if(s1[i]==s2[j]) jj--;
+        
+        int val = fun(s1, s2, i-1, jj, dp);
         if(val==INT_MAX) return dp[i][j] = val;
         return dp[i][j] = 1+val;
     }
@@ -21,17 +22,15 @@ public:
         int ind = -1, len = INT_MAX;
         vector<vector<int>>dp(n+1, vector<int>(m+1, -1));
 
-        for(int i = 0; i<n; i++){
-            if(s1[i]==s2[0]){
-                int t = fun(s1, s2, i, 0, dp);
-                if(t<len){
-                    ind = i;
-                    len = t;
-                }
+        for(int i = n-1; i>=m-1; i--){
+            int t = fun(s1, s2, i, m-1, dp);
+            if(t<=len){
+                ind = i;
+                len = t;
             }
         }
         
         if(len==INT_MAX) return "";
-        return s1.substr(ind, len);
+        return s1.substr(ind-len+1, len);
     }
 };
