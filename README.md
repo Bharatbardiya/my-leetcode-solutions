@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
