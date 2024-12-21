@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Design
 |  |
 | ------- |
