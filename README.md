@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0727-minimum-window-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0727-minimum-window-subsequence) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0727-minimum-window-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0727-minimum-window-subsequence) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
