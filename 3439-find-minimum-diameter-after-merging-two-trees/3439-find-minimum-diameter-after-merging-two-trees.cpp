@@ -36,6 +36,25 @@ public:
         return level;
     }
 
+    int maxHeight(vector<vector<int>>&adj, int s, int p, int&d){
+        
+        vector<int>heights;
+        for(auto v : adj[s]){
+            if(v!=p){
+                int t = maxHeight(adj, v, s, d);
+                heights.push_back(t);
+            }
+        }
+        sort(heights.rbegin(), heights.rend());
+        if(heights.size()==0) return 1;
+        else if(heights.size()==1){
+            d = max(d, heights[0]+1);
+        }
+        else d = max(d, heights[0]+heights[1]+1);
+        
+        return heights[0]+1;
+    }
+
     int minimumDiameterAfterMerge(vector<vector<int>>& edges1,
                                   vector<vector<int>>& edges2) {
         int n = edges1.size() + 1, m = edges2.size() + 1;
@@ -51,8 +70,13 @@ public:
             adj2[u].push_back(v);
             adj2[v].push_back(u);
         }
-        int x1 = findDiameter(adj1), x2 = findDiameter(adj2);
+        // int x1 = findDiameter(adj1), x2 = findDiameter(adj2);
         // cout<<x1<<","<<x2<<endl;
-        return max((x1+1)/2 + (x2+1)/2 + 1, max(x1,x2));
+        // return max((x1+1)/2 + (x2+1)/2 + 1, max(x1,x2));
+        int d1 = 0, d2 = 0;
+        maxHeight(adj1, 0, -1, d1);
+        maxHeight(adj2, 0, -1, d2);
+        cout<<d1<<","<<d2<<endl;
+        return max(d1-1, max(d2-1, d1/2 + d2/2 + 1));
     }
 };
