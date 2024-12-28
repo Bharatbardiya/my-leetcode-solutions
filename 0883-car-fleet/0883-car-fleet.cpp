@@ -1,8 +1,9 @@
 class Solution {
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        stack<double>st;
         int n = position.size();
+        double cur_time = 0;
+        int ans = 0;
         vector<pair<int,int>>vpr;
 
         for(int i = 0; i<n; i++){
@@ -13,8 +14,10 @@ public:
         for(int i = n-1; i>=0; i--){
             double time = (target-vpr[i].first)/(vpr[i].second*1.0);
 
-            if(st.size()==0 or st.top()<time) st.push(time);
+            if(cur_time<time){
+                ans++; cur_time = time;
+            }
         }
-        return st.size();
+        return ans;
     }
 };
