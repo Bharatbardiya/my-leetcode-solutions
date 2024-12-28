@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -262,11 +264,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
