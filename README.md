@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 ## Binary Search Tree
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Queue
@@ -372,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
