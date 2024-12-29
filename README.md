@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
