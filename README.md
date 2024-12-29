@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0494-target-sum) |
 ## Divide and Conquer
