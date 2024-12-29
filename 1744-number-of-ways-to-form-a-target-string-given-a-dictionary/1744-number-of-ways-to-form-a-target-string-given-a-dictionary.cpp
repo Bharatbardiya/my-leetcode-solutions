@@ -20,16 +20,20 @@ public:
             }
         }
 
-        vector<vector<long long>>dp(n+1, vector<long long>(m+1, 0));
+        // vector<vector<long long>>dp(n+1, vector<long long>(m+1, 0));
+        vector<long long>prev(m+1, 0), curr(m+1,0);
+        prev[0] = 1;
+        curr[0] = 1;
         int mod = 1e9+7;
 
-        for(int i = 0; i<=n; i++) dp[i][0]=1;
+        // for(int i = 0; i<=n; i++) dp[i][0]=1;
         for(int i = 1; i<=n; i++){
             for(int j = 1; j<=m;  j++){
                 int count = mywords[i-1][target[j-1]-'a'];
-                dp[i][j] = (count*dp[i-1][j-1] + dp[i-1][j])%mod;
+                curr[j] = (count*prev[j-1] + prev[j])%mod;
             }
+            prev = curr;
         }
-        return dp[n][m];
+        return prev[m];
     }
 };
