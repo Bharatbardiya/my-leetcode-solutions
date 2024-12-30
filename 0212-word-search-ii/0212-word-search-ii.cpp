@@ -40,17 +40,16 @@ public:
         if(i>=n or i<0 or j>=m or j<0) return;
         
         if(vis[i][j]) return;
+        Trie*next = root->child[board[i][j]-'a'];
+        if(next==NULL) return;
         curr.push_back(board[i][j]);
         vis[i][j] = true;
+        if(next->isEnd) ans.insert(curr);
 
-        if(root->search(curr)){
-            ans.insert(curr);
-        }
-
-        fun(board, curr, i+1, j, vis, maxl, root);
-        fun(board, curr, i-1, j, vis, maxl, root);
-        fun(board, curr, i, j+1, vis, maxl, root);
-        fun(board, curr, i, j-1, vis, maxl, root);
+        fun(board, curr, i+1, j, vis, maxl, next);
+        fun(board, curr, i-1, j, vis, maxl, next);
+        fun(board, curr, i, j+1, vis, maxl, next);
+        fun(board, curr, i, j-1, vis, maxl, next);
 
         vis[i][j] = false;
         curr.pop_back();
