@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
