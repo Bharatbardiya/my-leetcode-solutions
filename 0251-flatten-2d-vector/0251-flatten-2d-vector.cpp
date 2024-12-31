@@ -1,21 +1,24 @@
 class Vector2D {
 public:
-    vector<int>arr;
-    int i;
+    vector<vector<int>>vec;
+    int x,y;
     Vector2D(vector<vector<int>>& vec) {
-        for(auto v : vec){
-            for(auto x : v) arr.push_back(x);
-        }
-        this->i = 0;
+        this->vec = vec;
+        x = 0, y = 0;
+        while(x<vec.size() and vec[x].size()==0) x++;
     }
     
     int next() {
-        return arr[i++];
+        int val = vec[x][y];
+        if(y==vec[x].size()-1){
+            x++; y=0;
+            while(x<vec.size() and vec[x].size()==0) x++;
+        } else y++;
+        return val;
     }
     
     bool hasNext() {
-        if(i<arr.size()) return true;
-        return false;
+        return x<vec.size();
     }
 };
 
