@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
+| [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
+| [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
