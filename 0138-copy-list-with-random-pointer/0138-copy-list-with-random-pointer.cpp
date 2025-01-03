@@ -17,33 +17,42 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        // burte force
-        map<Node*, Node*>mp;
-
-        Node *head2 = new Node(0);
-        Node *temp = head2, *curr = head; 
+        
+        Node*curr = head;
 
         while(curr!=NULL){
-            int val = curr->val;
-            Node*newNode = new Node(val);
-            temp->next = newNode;
-            mp[curr] = newNode;
-
-            temp = temp->next;
-            curr = curr->next;
+            Node*temp = new Node(curr->val);
+            Node*next = curr->next;
+            curr->next = temp;
+            temp->next = next;
+            curr = next;
         }
-        head2 = head2->next;
-        temp = head2;
         curr = head;
+        while(curr!=NULL){
+            Node*newNode = curr->next;
+            if(curr->random)
+                newNode->random = curr->random->next;
+            curr = newNode->next;
+        }
+        curr = head;
+        Node*head2 = new Node(0);
+        Node*curr2 = head2;
 
         while(curr!=NULL){
-            Node*random = curr->random;
-            Node*newRandom = mp[curr->random];
-            temp->random = newRandom;
-
-            temp = temp->next;
+            Node*next = curr->next->next;
+            curr2->next = curr->next;
+            curr->next = next;
+            
+            curr2 = curr2->next;
             curr = curr->next;
         }
-        return head2;
+        // curr = head;
+        // while(curr!=NULL){
+        //     cout<<curr->val<<": ";
+        //     if(curr->random) cout<<curr->random->val<<endl;
+        //     else cout<<"null "<<endl;
+        //     curr =curr->next;
+        // }
+        return head2->next;
     }
 };
