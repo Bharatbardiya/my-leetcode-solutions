@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0251-flatten-2d-vector](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0251-flatten-2d-vector) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
