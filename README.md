@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## String Matching
 |  |
