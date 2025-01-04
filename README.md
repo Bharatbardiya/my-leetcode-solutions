@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0694-number-of-distinct-islands](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 ## Graph
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
+| [0694-number-of-distinct-islands](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0694-number-of-distinct-islands](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0694-number-of-distinct-islands) |
 ## Trie
 |  |
 | ------- |
