@@ -29,7 +29,7 @@ public:
                     vector<pair<int,int>>points;
                     dfs(grid, i,j, points, vis);
                     transform(points, i,j);
-                    sort(points.begin(), points.end());
+                    // sort(points.begin(), points.end());
                     st.insert(points);
                 }
             }
