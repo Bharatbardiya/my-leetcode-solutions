@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0127-word-ladder) |
