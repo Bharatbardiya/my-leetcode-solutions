@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3654-minimum-array-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3654-minimum-array-sum) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Design
