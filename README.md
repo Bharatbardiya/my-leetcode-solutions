@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1502-construct-k-palindrome-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1502-construct-k-palindrome-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1502-construct-k-palindrome-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1502-construct-k-palindrome-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
