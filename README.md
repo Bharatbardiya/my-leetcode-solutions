@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0727-minimum-window-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0727-minimum-window-subsequence) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0690-employee-importance) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
