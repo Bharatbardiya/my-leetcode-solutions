@@ -11,7 +11,7 @@ public:
     int countGoodStrings(int low, int high, int zero, int one) {
         vector<long long>dp(high+1, -1);
         int ans = 0;
-        for(int i = low; i<=high; i++){
+        for(int i = high; i>=low; i--){
             ans += fun(i, zero, one, dp);
             // ans += dp[i];
             ans = (ans%mod);
