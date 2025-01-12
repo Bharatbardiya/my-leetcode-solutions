@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
