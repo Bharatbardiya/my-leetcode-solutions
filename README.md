@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
