@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0727-minimum-window-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0727-minimum-window-subsequence) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0741-cherry-pickup) |
+| [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -564,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0494-target-sum) |
+| [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 ## Divide and Conquer
 |  |
 | ------- |
