@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bitmask
@@ -650,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
