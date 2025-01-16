@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3654-minimum-array-sum) |
+| [3690-smallest-substring-with-identical-characters-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3427-special-array-ii) |
+| [3690-smallest-substring-with-identical-characters-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0204-count-primes) |
+| [3690-smallest-substring-with-identical-characters-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Number Theory
 |  |
 | ------- |
