@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3706-smallest-substring-with-identical-characters-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3427-special-array-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3706-smallest-substring-with-identical-characters-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Sorting
 |  |
 | ------- |
