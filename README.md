@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1753-path-with-minimum-effort](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1300-critical-connections-in-a-network](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2717-collect-coins-in-a-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2717-collect-coins-in-a-tree) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -661,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
