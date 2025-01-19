@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0977-distinct-subsequences-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0727-minimum-window-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0727-minimum-window-subsequence) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
+| [0977-distinct-subsequences-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
 | [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
