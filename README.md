@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0474-ones-and-zeroes) |
