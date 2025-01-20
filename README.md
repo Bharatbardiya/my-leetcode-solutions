@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
 | [0977-distinct-subsequences-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0977-distinct-subsequences-ii) |
+| [1197-parsing-a-boolean-expression](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
+| [1197-parsing-a-boolean-expression](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0394-decode-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Linked List
 |  |
 | ------- |
