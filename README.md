@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0268-missing-number) |
+| [0593-valid-square](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0593-valid-square) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 ## Memoization
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0593-valid-square) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
