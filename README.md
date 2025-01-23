@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0593-valid-square](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 ## Memoization
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0593-valid-square) |
 | [0976-minimum-area-rectangle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
