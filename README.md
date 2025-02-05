@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0251-flatten-2d-vector](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0251-flatten-2d-vector) |
