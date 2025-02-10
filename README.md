@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3447-clear-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3447-clear-digits) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Binary Search
 |  |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0068-text-justification) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3447-clear-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
