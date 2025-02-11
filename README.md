@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0068-text-justification) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3447-clear-digits) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
