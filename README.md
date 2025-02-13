@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
