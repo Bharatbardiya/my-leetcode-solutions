@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3654-minimum-array-sum) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3430-count-days-without-meetings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Heap (Priority Queue)
 |  |
