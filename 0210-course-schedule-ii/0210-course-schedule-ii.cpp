@@ -1,35 +1,30 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>&adj, vector<bool>&vis, stack<int>&st, int u, vector<bool>&pathvis){
-        if(pathvis[u]) return false;
-        if(vis[u]) return true;
-        vis[u] = true;
-        pathvis[u] = true;
-        for(auto v : adj[u]){
-            bool f = dfs(adj, vis, st, v, pathvis);
-            if(!f) return false;
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>>adj(numCourses);
+        vector<int>req(numCourses);
+
+        for(auto edge : prerequisites){
+            adj[edge[1]].push_back(edge[0]);
+            req[edge[0]]++;
         }
-        pathvis[u] = false;
-        st.push(u);
-        return true;
-    }
-    vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
-        vector<bool>vis(n,false);
-        vector<bool>pathvis(n,false);
-        vector<vector<int>>adj(n);
-        for(auto pr : prerequisites){
-            adj[pr[1]].push_back(pr[0]);
+        queue<int>q;
+        for(int i = 0; i<numCourses; i++){
+            if(req[i]==0) q.push(i);
         }
-        stack<int>st;
-        for(int i = 0; i<n; i++){
-            bool f = dfs(adj, vis, st, i, pathvis);
-            if(!f) return {};
+
+        vector<int>answer;
+        while(q.size()>0){
+            int course = q.front();
+            q.pop();
+            answer.push_back(course);
+
+            for(auto c : adj[course]){
+                req[c]--;
+                if(req[c]==0) q.push(c);
+            }
         }
-        vector<int> ans;
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
-        }
-        return ans;
+        if(answer.size()!=numCourses) return {};
+        return answer;
     }
 };
