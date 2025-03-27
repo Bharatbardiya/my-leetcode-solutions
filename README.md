@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -784,10 +786,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Brainteaser
 |  |
