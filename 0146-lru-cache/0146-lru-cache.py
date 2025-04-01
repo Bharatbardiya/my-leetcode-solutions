@@ -1,36 +1,53 @@
+class ListNode:
+    def __init__(self, val, key):
+        self.val = val
+        self.key = key
+        self.next = None
+        self.prev = None
+
 class LRUCache:
-    d = dict()
-    cap = 0
-    li = list()
 
     def __init__(self, capacity: int):
-        self.d = dict()
-        self.li = list()
         self.cap = capacity
+        self.head = ListNode(-1,-1)
+        self.tail = ListNode(-1, -1)
+        self.head.next = self.tail
+        self.tail.prev = self.head
+        self.dic = dict()
+
+    def remove(self, node):
+        node.prev.next = node.next
+        node.next.prev = node.prev
+
+    def add(self, node):
+        prevNode = self.tail.prev
+        prevNode.next = node
+        node.prev = prevNode
+        node.next = self.tail
+        self.tail.prev = node
 
     def get(self, key: int) -> int:
-        # print(self.d, self.li, self.cap)
-        if key in self.d:
-            val = self.d[key]
-            self.li.remove(key)
-            self.li.append(key)
-            return val
-        return -1
+        if key not in self.dic:
+            return -1
+        
+        node = self.dic[key]
+        self.remove(node)
+        self.add(node)
+        return node.val
+
 
     def put(self, key: int, value: int) -> None:
-        # print("put : ", self.d, self.li, self.cap)
-        if key in self.d:
-            self.li.remove(key)
-            self.li.append(key)
-            self.d[key] = value
-            return
-        if len(self.li)>=self.cap:
-            first = self.li.pop(0)
-            self.d.pop(first)
-        self.li.append(key)
-        self.d[key] = value
-            
+        if key in self.dic:
+            old_node = self.dic[key]
+            self.remove(old_node)
 
+        node = ListNode(value, key)
+        self.dic[key] = node
+        self.add(node)
+        if len(self.dic)>self.cap:
+            node_to_delete = self.head.next
+            self.remove(node_to_delete)
+            del self.dic[node_to_delete.key]
         
 
 
