@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3654-minimum-array-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3654-minimum-array-sum) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3690-smallest-substring-with-identical-characters-i) |
 ## Dynamic Programming
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
