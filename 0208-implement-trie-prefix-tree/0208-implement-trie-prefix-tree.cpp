@@ -1,45 +1,57 @@
-class Trie{
-	public:
+class Node{
+    public:
+    vector<Node*>child;
+    bool isEnd;
+        Node(){
+            this->isEnd = false;
+            this->child.resize(26, NULL);
+        }
+};
 
-	bool isEnd;
-	vector<Trie*>child;
-
-	Trie(){
-		isEnd = false;
-		child.resize(26,NULL);
-	}
-
-	void insert(string s){
-		Trie*root = this;
-		for(int i = 0; i<s.length(); i++){
-			int ind = s[i]-'a';
-			if(root->child[ind]==NULL){
-				root->child[ind] = new Trie();
-			}
-			root = root->child[ind];
-		}
-		root->isEnd = true;
-	}
-
-	bool search(string s){
-		Trie*root = this;
-		for(int i = 0; i<s.length(); i++){
-			int ind = s[i]-'a';
-			if(root->child[ind]==NULL) return false;
-			root = root->child[ind];
-		}
-		return (root->isEnd==true);
-	}
-
-	bool startsWith(string s){
-		Trie*root = this;
-		for(int i = 0; i<s.length(); i++){
-			int ind = s[i]-'a';
-			if(root->child[ind]==NULL) return false;
-			root = root->child[ind];
-		}
-		return true;
-	}
+class Trie {
+public:
+    Node*root;
+    Trie() {
+        root = new Node();
+    }
+    // "a"
+    void insert(string word) {
+        Node*curr = root;// root -> 26(NULL)
+        for(char c : word){
+            int ind = c-'a';
+            if(curr->child[ind]==NULL){
+                // true 
+                // 
+                curr->child[ind] = new Node();
+            }
+            curr = curr->child[ind];
+        }
+        curr->isEnd = true;
+    }
+    
+    bool search(string word) {
+        Node*curr = root;
+        for(char c : word){
+            int ind = c-'a';
+            if(curr->child[ind]==NULL){
+                return false;
+            }
+            curr = curr->child[ind];
+        }
+        return (curr->isEnd);
+    }
+    
+    bool startsWith(string prefix) {
+        Node*curr = root;
+        for(char c : prefix){
+            int ind = c-'a';
+            if(curr->child[ind]==NULL){
+                return false;
+            }
+            curr = curr->child[ind];
+        }
+        return true;
+    }
 };
 
 /**
