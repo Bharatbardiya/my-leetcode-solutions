@@ -1,28 +1,24 @@
 class Solution {
 public:
-    void explore(vector<int>&candidates, int target, int i, vector<vector<int>>&ans, vector<int>&curr){
+    void fun(vector<int>&arr, vector<vector<int>>&ans, vector<int>&curr, int target, int i){
         if(target==0){
-            ans.push_back(curr); return;
-        }
-        if(i<0){
+            ans.push_back(curr);
             return;
         }
+        if(target<0 or i==arr.size()) return;
 
-        if(candidates[i]<=target){
-            curr.push_back(candidates[i]);
-            explore(candidates, target-candidates[i], i-1, ans, curr);
-            curr.pop_back();
-        }
-        int val = candidates[i];
-        while(i>=0 and val==candidates[i]) i--;
-        explore(candidates, target, i, ans, curr);
+        curr.push_back(arr[i]);
+        fun(arr, ans, curr, target-arr[i], i+1);
+        curr.pop_back();
+
+        while(i<arr.size()-1 and arr[i]==arr[i+1]) i+=1;
+        fun(arr, ans, curr, target, i+1);
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
         vector<vector<int>>ans;
         vector<int>curr;
-        
-        explore(candidates, target, candidates.size()-1, ans, curr);
+        fun(candidates, ans, curr, target, 0);
         return ans;
     }
 };
