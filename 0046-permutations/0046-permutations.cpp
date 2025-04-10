@@ -1,21 +1,18 @@
 class Solution {
 public:
-    void make_permutation(vector<int>&nums, vector<vector<int>>&ans, int i){
+    void fun(vector<int>&nums, int i, vector<vector<int>>&permutations){
         if(i==nums.size()){
-            ans.push_back(nums); return;
+            permutations.push_back(nums);
         }
-
         for(int j = i; j<nums.size(); j++){
-            // vector<int>temp = nums;
-            swap(nums[i], nums[j]);
-            make_permutation(nums, ans, i+1);
-            swap(nums[i], nums[j]);
+            swap(nums[j], nums[i]);
+            fun(nums, i+1, permutations);
+            swap(nums[j], nums[i]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        
-        vector<vector<int>>ans;
-        make_permutation(nums, ans, 0);
-        return ans;
+        vector<vector<int>>permutations;
+        fun(nums, 0, permutations);
+        return permutations;
     }
 };
