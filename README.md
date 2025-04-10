@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0676-implement-magic-dictionary](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0676-implement-magic-dictionary) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0402-remove-k-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
