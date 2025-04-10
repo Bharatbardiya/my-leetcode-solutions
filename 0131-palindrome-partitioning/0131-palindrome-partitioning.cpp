@@ -1,6 +1,7 @@
 class Solution {
 public:
-    bool isPalindrome(string &s){
+    bool isPal(string &s){
+        if(s.length()==0) return false;
         int i = 0, j = s.length()-1;
         while(i<j){
             if(s[i]!=s[j]) return false;
@@ -8,34 +9,39 @@ public:
         }
         return true;
     }
-    void explore(string &s, int i, string&curr, vector<string>&my_parti, vector<vector<string>>&ans){
-        if(i>=s.length()){
-            if(isPalindrome(curr)){
-                my_parti.push_back(curr);
-                ans.push_back(my_parti);
-                my_parti.pop_back();
+    void fun(string &s, vector<vector<string>>&ans, vector<string>&curr, string &t, int i){
+        if(i==s.length()){
+            if(isPal(t)){
+                curr.push_back(t);
+                ans.push_back(curr);
+                curr.pop_back();
             }
             return;
         }
 
-        curr.push_back(s[i]);
-        explore(s, i+1, curr, my_parti, ans);
-        curr.pop_back();
-        
-        if(curr.size()>0 and isPalindrome(curr)){
-            string temp = curr;
-            my_parti.push_back(curr);
-            curr = ""; curr.push_back(s[i]);
-            explore(s, i+1, curr, my_parti, ans);
-            my_parti.pop_back();
-            curr = temp;
+        if(isPal(t)){
+            curr.push_back(t);
+            string tt = "";
+            fun(s, ans, curr, tt, i);
+            curr.pop_back();
+
+            t.push_back(s[i]);
+            fun(s, ans, curr, t, i+1);
+            t.pop_back();
+        }
+        else{
+            t.push_back(s[i]);
+            fun(s, ans, curr, t, i+1);
+            t.pop_back();
         }
     }
+
     vector<vector<string>> partition(string s) {
         vector<vector<string>>ans;
-        vector<string>my_parti;
-        string curr = "";
-        explore(s,0, curr, my_parti, ans);
+        vector<string>curr;
+        string t = "";
+
+        fun(s, ans, curr, t, 0);
         return ans;
     }
 };
