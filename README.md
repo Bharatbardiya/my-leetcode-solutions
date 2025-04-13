@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
