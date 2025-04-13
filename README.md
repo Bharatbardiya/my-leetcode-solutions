@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0251-flatten-2d-vector](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0251-flatten-2d-vector) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -718,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -823,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0251-flatten-2d-vector) |
 ## Recursion
 |  |
