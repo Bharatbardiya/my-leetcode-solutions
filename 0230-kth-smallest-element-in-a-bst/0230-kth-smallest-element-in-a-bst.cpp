@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    int fun(TreeNode *root, int &k){
+    int dfs(TreeNode*root, int &k){
         if(root==NULL) return -1;
-        int left = fun(root->left, k);
-        if(left!=-1) return left;
-        if(k==1) return root->val;
+        int val1=dfs(root->left,k);
+        if(val1!=-1) return val1;
+
         k--;
-        return fun(root->right, k);
-    }
-    
-    int kthSmallest(TreeNode* root, int k) {
+        if(k==0) return root->val;
+        return dfs(root->right,k);
         
-        return fun(root, k);
+    }
+    int kthSmallest(TreeNode* root, int k) {
+        return dfs(root, k);
     }
 };
