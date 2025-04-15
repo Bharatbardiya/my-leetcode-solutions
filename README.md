@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
 | [0952-word-subsets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [0976-minimum-area-rectangle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0976-minimum-area-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1003-minimum-area-rectangle-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0971-shortest-bridge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1300-critical-connections-in-a-network) |
