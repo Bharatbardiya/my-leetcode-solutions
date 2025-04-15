@@ -42,7 +42,7 @@ public:
             for(int itr = 0; itr<size; itr++){
                 auto pr = q.front(); q.pop();
                 int i = pr.first, j = pr.second;
-                cout<<i<<","<<j<<"),";
+                // cout<<i<<","<<j<<"),";
                 if(ans>0 and grid[i][j]==1) return ans-1;
                 for(auto dir : dirs){
                     int ii = dir[0]+i, jj = dir[1]+j;
