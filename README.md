@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Tree
 |  |
