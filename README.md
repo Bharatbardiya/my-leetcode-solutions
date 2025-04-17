@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0062-unique-paths) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Two Pointers
 |  |
 | ------- |
