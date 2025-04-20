@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2653-check-if-there-is-a-path-with-equal-number-of-0s-and-1s) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2717-collect-coins-in-a-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2717-collect-coins-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2597-cycle-length-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
