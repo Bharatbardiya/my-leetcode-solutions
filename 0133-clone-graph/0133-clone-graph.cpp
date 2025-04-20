@@ -21,7 +21,7 @@ public:
 
 class Solution {
 public:
-    Node* dfs(Node* node, unordered_map<Node*, Node*>&mp){
+    Node* dfs(Node* node, map<Node*, Node*>&mp){
         if(node==NULL) return NULL;
         Node* curr = NULL;
         if(mp.find(node) != mp.end()){
@@ -40,7 +40,7 @@ public:
     }
 
     Node* cloneGraph(Node* node) {
-        unordered_map<Node*,Node*>mp;
+        map<Node*,Node*>mp;
         return dfs(node, mp);
     }
 };
