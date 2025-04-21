@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-minimum-area-rectangle-ii](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1003-minimum-area-rectangle-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -798,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -812,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Bharatbardiya/my-leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
