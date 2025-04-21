@@ -11,16 +11,15 @@
  */
 class Solution {
 public:
-    pair<int,bool> fun(TreeNode* root){
-        if(root==NULL) return {0,true};
-
-        pair<int,bool> pr1 = fun(root->left), pr2 = fun(root->right);
-        int height = 1+max(pr1.first,pr2.first);
-        if(abs(pr1.first-pr2.first)>=2 or !pr1.second or !pr2.second) return {height, false};
-        return {height, true};
-
+    int height(TreeNode* root){
+        if(root==NULL) return 0;
+        int l = height(root->left), r = height(root->right);
+        if(l==-1 or r==-1) return -1;
+        if(abs(l-r)>1) return -1;
+        return max(l,r)+1;
     }
     bool isBalanced(TreeNode* root) {
-        return fun(root).second;
+        
+        return height(root)!=-1;
     }
 };
